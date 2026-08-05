@@ -4,11 +4,14 @@
 
 ### Exploring Artificial Intelligence, Building with Python, and Contributing to Open Source
 
-<p>
-  <a href="https://github.com/Muhammad-Habib92">
-    <img src="https://komarev.com/ghpvc/?username=muhammad-habib92&label=Profile%20Views&color=0e75b6&style=flat" alt="Muhammad Habib's profile views" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="Muhammad Habib's GitHub stats" />
+<img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Muhammad Habib's most-used languages" />
+
+<br />
+
+<a href="https://github.com/Muhammad-Habib92">
+  <img src="https://komarev.com/ghpvc/?username=muhammad-habib92&label=Profile%20Views&color=0e75b6&style=flat" alt="Muhammad Habib's profile views" />
+</a>
 
 </div>
 
@@ -21,20 +24,6 @@
 - 👨‍💻 Explore all my projects on [GitHub](https://github.com/Muhammad-Habib92)
 - 📫 Reach me at **m.habib.guru@gmail.com**
 - ⚡ Fun fact: **When I focus, I build!**
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/m-habib-295330305" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/mhabibguru" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="mailto:m.habib.guru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 ## 🛠️ Languages and Tools
 
@@ -66,27 +55,24 @@
   <a href="https://www.figma.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" /></a>
 </p>
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="Muhammad Habib's GitHub stats" />
-  <img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Muhammad Habib's most-used languages" />
+  <img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/snake-output/snake.svg" alt="Muhammad Habib's contribution snake animation" />
 </div>
-
-## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammad-habib92&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Muhammad Habib's GitHub trophies" />
 </div>
 
-## 🐍 Contribution Activity
+## 🤝 Connect With Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/snake-output/snake.svg" alt="Muhammad Habib's contribution snake animation" />
-</div>
-
----
-
-<div align="center">
-  <i>Learning, building, and sharing—one project at a time.</i>
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/m-habib-295330305" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/mhabibguru" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:m.habib.guru@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
