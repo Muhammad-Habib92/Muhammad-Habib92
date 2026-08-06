@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi 👋, I'm Muhammad Habib
+Hi 👋, I'm Muhammad Habib
 
-### Exploring Artificial Intelligence, Building with Python, and Contributing to Open Source
+Exploring Artificial Intelligence, Building with Python, and Contributing to Open Source
 
-<img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="Muhammad Habib's GitHub stats" />
-<img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Muhammad Habib's most-used languages" />
+<img src="./profile/stats.svg" height="165" alt="Muhammad Habib's GitHub stats" />
+<img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/languages-output/languages.svg" height="165" alt="Muhammad Habib's most-used languages" />
 
 <br />
 
@@ -15,19 +15,25 @@
 
 </div>
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-- 🔭 I'm currently working on **MCPs, Deep Learning, and AI projects**
-- 🌱 I'm currently learning **AI Engineering and Model Fine-Tuning**
-- 🤝 I'm looking to collaborate and grow in **AI Engineering**
-- 💬 Ask me about **Python, AI, HTML, CSS, and JavaScript**
-- 👨‍💻 Explore all my projects on [GitHub](https://github.com/Muhammad-Habib92)
-- 📫 Reach me at **m.habib.guru@gmail.com**
-- ⚡ Fun fact: **When I focus, I build!**
+🔭 I'm currently working on MCPs, Deep Learning, and AI projects
 
-## 🛠️ Languages and Tools
+🌱 I'm currently learning AI Engineering and Model Fine-Tuning
 
-### AI, Machine Learning & Data
+🤝 I'm looking to collaborate and grow in AI Engineering
+
+💬 Ask me about Python, AI, HTML, CSS, and JavaScript
+
+👨‍💻 Explore all my projects on GitHub
+
+📫 Reach me at m.habib.guru@gmail.com
+
+⚡ Fun fact: When I focus, I build!
+
+🛠️ Languages and Tools
+
+AI, Machine Learning & Data
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" /></a>&nbsp;
@@ -37,7 +43,7 @@
   <a href="https://pandas.pydata.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" /></a>
 </p>
 
-### Development, Databases & Cloud
+Development, Databases & Cloud
 
 <p align="left">
   <a href="https://www.w3.org/html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" /></a>&nbsp;
@@ -45,7 +51,7 @@
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>&nbsp;
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" /></a>&nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" /></a>&nbsp;
-  <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="42" height="42" /></a>&nbsp;
+  <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="42" height="42" /></a>&nbsp;
   <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" /></a>&nbsp;
   <a href="https://www.oracle.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42" /></a>&nbsp;
   <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42" /></a>&nbsp;
@@ -59,11 +65,7 @@
   <img src="https://raw.githubusercontent.com/Muhammad-Habib92/Muhammad-Habib92/snake-output/snake.svg" alt="Muhammad Habib's contribution snake animation" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-habib92&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Muhammad Habib's GitHub trophies" />
-</div>
-
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/m-habib-295330305" target="_blank">
